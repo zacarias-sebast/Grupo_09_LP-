@@ -1,0 +1,14 @@
+C:\Users\Justino\Desktop\Prova_Linguagem_JUSTINO_LUCAS_JOAO\Sistema de gestão de distribuição AG\Sistema de gestão de distribuição AG\bin\Debug\Sistema de gestão de distribuição AG.exe.config
+C:\Users\Justino\Desktop\Prova_Linguagem_JUSTINO_LUCAS_JOAO\Sistema de gestão de distribuição AG\Sistema de gestão de distribuição AG\bin\Debug\Sistema de gestão de distribuição AG.exe
+C:\Users\Justino\Desktop\Prova_Linguagem_JUSTINO_LUCAS_JOAO\Sistema de gestão de distribuição AG\Sistema de gestão de distribuição AG\bin\Debug\Sistema de gestão de distribuição AG.pdb
+C:\Users\Justino\Desktop\Prova_Linguagem_JUSTINO_LUCAS_JOAO\Sistema de gestão de distribuição AG\Sistema de gestão de distribuição AG\obj\Debug\Sistema de gestão de distribuição AG.exe
+C:\Users\Justino\Desktop\Prova_Linguagem_JUSTINO_LUCAS_JOAO\Sistema de gestão de distribuição AG\Sistema de gestão de distribuição AG\obj\Debug\Sistema de gestão de distribuição AG.pdb
+C:\Users\Justino\Desktop\PROVA DE LINGUAGEM\Programa_LP\Sistema de gestão de distribuição AG\Sistema de gestão de distribuição AG\bin\Debug\Sistema de gestão de distribuição AG.exe.config
+C:\Users\Justino\Desktop\PROVA DE LINGUAGEM\Programa_LP\Sistema de gestão de distribuição AG\Sistema de gestão de distribuição AG\obj\Debug\Sistema de gestão de distribuição AG.exe
+C:\Users\Justino\Desktop\PROVA DE LINGUAGEM\Programa_LP\Sistema de gestão de distribuição AG\Sistema de gestão de distribuição AG\obj\Debug\Sistema de gestão de distribuição AG.pdb
+C:\Users\Zacarias Sebastião\Desktop\Ola\Sistema de gestão de distribuição AG\Sistema de gestão de distribuição AG\bin\Debug\Sistema de gestão de distribuição AG.exe.config
+C:\Users\Zacarias Sebastião\Desktop\Ola\Sistema de gestão de distribuição AG\Sistema de gestão de distribuição AG\obj\Debug\Sistema de gestão de distribuição AG.exe
+C:\Users\Zacarias Sebastião\Desktop\Ola\Sistema de gestão de distribuição AG\Sistema de gestão de distribuição AG\obj\Debug\Sistema de gestão de distribuição AG.pdb
+C:\Users\Zacarias Sebastião\Desktop\Ola\Sistema de gestão de distribuição AG\Sistema de gestão de distribuição AG\bin\Debug\Sistema de gestão de distribuição AG.exe
+C:\Users\Zacarias Sebastião\Desktop\Ola\Sistema de gestão de distribuição AG\Sistema de gestão de distribuição AG\bin\Debug\Sistema de gestão de distribuição AG.pdb
+C:\Users\Zacarias Sebastião\Desktop\Ola\Sistema de gestão de distribuição AG\Sistema de gestão de distribuição AG\obj\Debug\Sistema de gestão de distribuição AG.csprojResolveAssemblyReference.cache
